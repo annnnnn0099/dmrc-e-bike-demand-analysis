@@ -68,12 +68,6 @@ This project analyzes the underutilization of rental e-bikes deployed near Delhi
 
 ---
 
-# 📷 Sample Visualizations
-
-(Add your graphs/screenshots here)
-
----
-
 # 🚀 Conclusion
 
 This project demonstrates how data analytics and machine learning can improve urban mobility solutions and enhance last-mile connectivity efficiency.
